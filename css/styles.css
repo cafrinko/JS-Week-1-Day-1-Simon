@@ -1,0 +1,44 @@
+body{
+  margin-top: 4%;
+}
+
+.grid{
+  background: #EEE;
+  text-align: center;
+  border-radius: 4px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  height: 150px;
+  line-height: 150px;
+  margin-bottom: .75rem;
+  font-weight: 600;
+  letter-spacing: .1rem;
+}
+
+.blue{
+  background-color: blue;
+  opacity: 0.7;
+}
+
+.blue:hover{
+  opacity: 1;
+}
+
+.lightup{
+  opacity: 1 !important;
+}
+
+.red{
+  background-color: red;
+  opacity: 0.7;
+}
+
+.green{
+  background-color: green;
+  opacity: 0.7;
+}
+
+.yellow{
+  background-color: yellow;
+  opacity: 0.7;
+}
